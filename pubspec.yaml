@@ -1,0 +1,58 @@
+name: ebook_duffy_friends
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.4.3 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/background.jpg
+    - assets/cookieAnn.jpg
+    - assets/cookieAnn1.jpg
+    - assets/cookieAnn2.jpg
+    - assets/cookieAnn3.jpg
+    - assets/cookieAnn4.jpg
+    - assets/duffy.jpg
+    - assets/duffy1.jpg
+    - assets/duffy2.jpg
+    - assets/duffy3.jpg
+    - assets/duffy4.jpg
+    - assets/gelatoni.jpg
+    - assets/gelatoni1.jpg
+    - assets/gelatoni2.jpg
+    - assets/gelatoni3.jpg
+    - assets/gelatoni4.jpg
+    - assets/linabell.jpg
+    - assets/linabell1.jpg
+    - assets/linabell2.jpg
+    - assets/linabell3.jpg
+    - assets/linabell4.jpg
+    - assets/oluMel.jpg
+    - assets/oluMel1.jpg
+    - assets/oluMel2.jpg
+    - assets/oluMel3.jpg
+    - assets/oluMel4.jpg
+    - assets/shellieMay.jpg
+    - assets/shellieMay1.jpg
+    - assets/shellieMay2.jpg
+    - assets/shellieMay3.jpg
+    - assets/shellieMay4.jpg
+    - assets/stellaLou.jpg
+    - assets/stellaLou1.jpg
+    - assets/stellaLou2.jpg
+    - assets/stellaLou3.jpg
+    - assets/stellaLou4.jpg
+
